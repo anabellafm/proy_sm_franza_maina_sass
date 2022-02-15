@@ -1,0 +1,14 @@
+@import "base/variables"
+
+body { background-color: $bg-color;
+
+    header{padding: $relleno;
+
+    }
+main{padding: $relleno;
+
+}
+footer{padding: $relleno;
+
+}
+    }
